@@ -1,0 +1,125 @@
+header{
+    height:90px ;
+    width: 100%;
+    text-align: center;
+    border: solid grey 1px;
+    background-color: rgb(156, 187, 187);
+    
+}
+
+
+#first{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    
+    
+}
+#first img{
+    height:100% ;
+    width: 25%;
+}
+.right{
+    margin-left: 2%;
+    font-size: 20px;
+    font-style: normal;
+}
+
+#second{
+    height: 300px;
+    width: 100%;
+    padding: 5px;
+   
+}
+
+#second h2{
+    text-align: center;
+}
+#second img{
+    
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+}
+.right1{
+    padding: 3%;
+    text-align: center;
+
+}
+#third{
+    height: 300px;
+    width: 100%;
+    
+}
+#third h2{
+    text-align: center;
+}
+
+.left{
+    height: 10%;
+    width: 100%;
+    background-color:  rgb(156, 187, 187);
+   
+    
+}
+.left1{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(156, 187, 187);
+}
+#fourth{
+    height: 300px;
+    width: 100%;
+   
+}
+.right2{
+    font-size: 20px;
+    font-style: normal;
+    
+}
+.left2{
+    height: 10%;
+    width: 100%;
+    background-color:  rgb(156, 187, 187);
+    text-align: center;
+}
+.right3{
+    font-size: 20px;
+    font-style: normal;
+}
+
+#fifth{
+    height: 350px;
+    width: 100%;
+}
+.left3{
+    height: 10%;
+    width: 100%;
+    background-color:  rgb(156, 187, 187);
+    text-align: center;
+    
+}
+.right4{
+    text-align: center;
+    margin-top: 3%;
+   
+}
+#sixth{
+    height: 300px;
+    width: 100%;
+}
+.left4{
+    height: 10%;
+    width: 100%;
+    background-color:  rgb(156, 187, 187);
+    text-align: center;
+}
+footer{
+    background-color:  rgb(156, 187, 187);
+}
+#left5{
+    text-align: center;
+    padding-bottom: 3px;
+   
+}
+
